@@ -1,6 +1,6 @@
 # README
 
-Railsを学ぼう2-2
+Railsを学ぼう2-5
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
